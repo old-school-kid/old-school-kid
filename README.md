@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, Surya Here
+<div align="center">I am still learning what to learn what to learn. I am extremely fascinated towards Data Science and especially Computer Vision and its application in robotics. I also love participating in Hackathons. 
 
-<!--
-**old-school-kid/old-school-kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<div align="center">
+  
+![](https://img.shields.io/badge/-Deep%20Learning-brightgreend)
+![](https://img.shields.io/badge/-Computer%20Vision-yellowgreen)
+![](https://img.shields.io/badge/-Robotics-blue)
+![](https://img.shields.io/badge/-IoT-yellow)
+  </div>
+  </div>
+  
 
-Here are some ideas to get you started:
+[![Surya's github stats](https://github-readme-stats.vercel.app/api?username=old-school-kid&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=old-school-kid&theme=react&line_height=27&layout=compact)
+## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
+
+![](https://komarev.com/ghpvc/?username=hemanthh17&color=blue)
+
+
+[linkedin]: www.linkedin.com/in/surya-pasrakh-mishra
+[website]: https://old-school-kid.github.io/my-portfolio/index.html
