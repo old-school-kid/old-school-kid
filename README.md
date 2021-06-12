@@ -1,5 +1,5 @@
 ### Hi, Surya Here
-<div align="center">I am still learning what to learn what to learn. I am extremely fascinated towards Data Science and especially Computer Vision and its application in robotics. I also love participating in Hackathons. 
+<div align="left">I am still learning what to learn what to learn. I am extremely fascinated towards Data Science and especially Computer Vision and its application in robotics. I also love participating in Hackathons. 
 
 <br>
 <div align="center">
