@@ -25,7 +25,7 @@
 [<img align="left" alt="codeSTACKr | Website" width="22px" src="https://github.com/old-school-kid/my-portfolio/blob/main/images/favicon.ico" />][website]
 <br />
 
-![](https://komarev.com/ghpvc/?username=hemanthh17&color=blue)
+![](https://komarev.com/ghpvc/?username=old-school-kid&color=blue)
 
 
 [linkedin]: www.linkedin.com/in/surya-pasrakh-mishra
