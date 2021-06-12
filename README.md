@@ -2,6 +2,7 @@
 <div align="left">I am still learning what to learn what to learn. I am extremely fascinated towards Data Science and especially Computer Vision and its application in robotics. I also love participating in Hackathons. 
 
 <br>
+<br>
 <div align="center"> All WE need is vision and some attention.
 <div align="center">
   
@@ -21,7 +22,7 @@
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://github.com/old-school-kid/my-portfolio/blob/main/images/favicon.ico" />][website]
 <br />
 
 ![](https://komarev.com/ghpvc/?username=hemanthh17&color=blue)
