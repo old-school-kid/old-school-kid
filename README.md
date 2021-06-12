@@ -10,8 +10,8 @@
 ![](https://img.shields.io/badge/-Computer%20Vision-yellowgreen)
 ![](https://img.shields.io/badge/-Robotics-blue)
 ![](https://img.shields.io/badge/-IoT-yellow)
-![](https://img.shields.io/badge/-Art-violetblue)
-![](https://img.shields.io/badge/-Self%20Driving%20Cars-redorange)
+![](https://img.shields.io/badge/-Art-violet)
+![](https://img.shields.io/badge/-Self%20Driving%20Cars-orange)
   </div>
   </div>
   </div>
