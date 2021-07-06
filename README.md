@@ -24,6 +24,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Website" width="22px" src="https://github.com/old-school-kid/my-portfolio/blob/main/images/favicon.ico" />][website]
 <br />
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />][Instagram]
 
 ![](https://komarev.com/ghpvc/?username=old-school-kid&color=blue)
 
