@@ -32,3 +32,4 @@
 
 [linkedin]: www.linkedin.com/in/surya-pasrakh-mishra
 [website]: https://old-school-kid.github.io/my-portfolio/index.html
+[Instagram]: https://www.instagram.com/old_school.kid/
