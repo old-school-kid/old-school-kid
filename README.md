@@ -17,7 +17,7 @@
   </div>
   
 
-[![Surya's github stats](https://github-readme-stats.vercel.app/api?username=old-school-kid&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Surya's github stats](https://github-readme-stats.vercel.app/api?username=old-school-kid&count_private=true&include_all_commits=true&theme=radical)](https://old-school-kid.github.io/my-portfolio/index.html)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=old-school-kid&theme=react&line_height=27&layout=compact)
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="30">
 
