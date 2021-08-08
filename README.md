@@ -3,7 +3,7 @@
 
 <br>
 <br>
-<div align="center"> All WE need is vision and some attention.
+<div align="center"> All WE need is vision.
 <div align="center">
   
 ![](https://img.shields.io/badge/-Deep%20Learning-brightgreend)
