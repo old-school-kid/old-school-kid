@@ -29,6 +29,6 @@
 ![](https://komarev.com/ghpvc/?username=old-school-kid&color=blue)
 
 
-[linkedin]: www.linkedin.com/in/surya-pasrakh-mishra
+[linkedin]: https://www.linkedin.com/in/surya-pasrakh-mishra/
 [website]: https://old-school-kid.github.io/my-portfolio/index.html
 [Instagram]: https://www.instagram.com/old_school.kid/
