@@ -29,8 +29,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />][Instagram]
 <br />
 
-![](https://komarev.com/ghpvc/?username=old-school-kid&color=blue)
-
 
 [linkedin]: https://www.linkedin.com/in/surya-pasrakh-mishra/
 [website]: https://old-school-kid.github.io/my-portfolio/index.html
