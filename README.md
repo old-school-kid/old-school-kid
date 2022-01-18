@@ -16,9 +16,6 @@
   </div>
   </div>
 
-#### Visitors (since October 2021)
-
-![Counter](https://count.getloli.com/get/@old-school-kid?theme=rule23)
 
 [![Surya's github stats](https://github-readme-stats.vercel.app/api?username=old-school-kid&count_private=true&include_all_commits=true&theme=radical)](https://old-school-kid.github.io/my-portfolio/index.html)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=old-school-kid&theme=react&line_height=27&layout=compact)
@@ -29,6 +26,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />][Instagram]
 <br />
 
+#### Visitors (since October 2021)
+
+![Counter](https://count.getloli.com/get/@old-school-kid?theme=rule23)
 
 [linkedin]: https://www.linkedin.com/in/surya-pasrakh-mishra/
 [website]: https://old-school-kid.github.io/my-portfolio/index.html
