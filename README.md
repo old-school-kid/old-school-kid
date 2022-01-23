@@ -33,15 +33,17 @@
 
 ... and I'm always learning and exploring stuff. 
 
+#### 	:chart_with_upwards_trend: Git Stats
+
 [![Surya's github stats](https://github-readme-stats.vercel.app/api?username=old-school-kid&count_private=true&include_all_commits=true&theme=radical)](https://old-school-kid.github.io/my-portfolio/index.html)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=old-school-kid&theme=react&line_height=27&layout=compact)
 
-#### Visitors (since October 2021)
+#### :eyes: Visitors (since October 2021)
 
 ![Counter](https://count.getloli.com/get/@old-school-kid?theme=rule23)
 
-## 📫 Wanna catch up? 
-Still getting my around the second life thing but this also works, I guess.
+## :mailbox: Wanna catch up? 
+Still getting my head around the second life thing but this also works, I guess.
 <br>
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrasp393@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-mishra/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuryaIsAllUNeed)[![Poems](https://img.shields.io/badge/Poems-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.yourquote.in/surya-prakash-mishra-kzo0/quotes)[![Medium](https://img.shields.io/badge/Rant-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://medium.com/@messedsurya)
 <!-- [linkedin]: https://www.linkedin.com/in/surya-pasrakh-mishra/
