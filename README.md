@@ -45,7 +45,7 @@
 ### :mailbox: Wanna catch up? 
 Still getting my head around the second life thing but this also works, I guess.
 <br>
-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrasp393@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-mishra/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuryaIsAllUNeed)[![Poems](https://img.shields.io/badge/Poems-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.yourquote.in/surya-prakash-mishra-kzo0/quotes)[![Medium](https://img.shields.io/badge/Rant-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://medium.com/@messedsurya)
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrasp393@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-mishra/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuryaIsAllUNeed)[![Poems](https://img.shields.io/badge/{Poem}-{FFA500}?style=for-the-badge&logo={YourQuote}&logoColor=white)](https://www.yourquote.in/surya-prakash-mishra-kzo0/quotes)[![Medium](https://img.shields.io/badge/Rant-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@messedsurya)
   
  <br>
 <!-- [linkedin]: https://www.linkedin.com/in/surya-pasrakh-mishra/
