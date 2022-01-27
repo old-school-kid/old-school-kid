@@ -36,7 +36,9 @@
 ### 	:chart_with_upwards_trend: Git Stats
 
 [![Surya's github stats](https://github-readme-stats.vercel.app/api?username=old-school-kid&count_private=true&include_all_commits=true&theme=radical)](https://old-school-kid.github.io/my-portfolio/index.html)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=old-school-kid&theme=react&line_height=27&layout=compact)
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=old-school-kid)
 
 ### :eyes: Visitors (since October 2021)
