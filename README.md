@@ -52,7 +52,7 @@ Still getting my head around the second life thing but this also works, I guess.
   
  <br>
  <div align="center">
- #### :mage_man: Attention is the rarest and purest form of generosity. - Simone Weil
+  <h4> :mage_man: Attention is the rarest and purest form of generosity. - Simone Weil </h4>
  </div>
 <!-- [linkedin]: https://www.linkedin.com/in/surya-pasrakh-mishra/
 [website]: https://old-school-kid.github.io/my-portfolio/index.html
