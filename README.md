@@ -51,6 +51,9 @@ Still getting my head around the second life thing but this also works, I guess.
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrasp393@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-mishra/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuryaIsAllUNeed)[![Poems](https://img.shields.io/badge/Poem-{FF7139}?style=for-the-badge&logo={YourQuote}&logoColor=white)](https://www.yourquote.in/surya-prakash-mishra-kzo0/quotes)[![Medium](https://img.shields.io/badge/Rant-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@messedsurya)[![Chess](https://img.shields.io/badge/Chess-0EA10B?style=for-the-badge&logo=medium&logoColor=white)](https://www.chess.com/member/chigorinattack)[![Spotify](https://img.shields.io/badge/Spotify-077504?style=for-the-badge&logo=medium&logoColor=white)](https://open.spotify.com/user/pg6nou9t1p1adv0oxzmds1297?si=85C--ZTyRB2S4wcu0KX0dA)
   
  <br>
+ <div align="center">
+ #### :mage_man: Attention is the rarest and purest form of generosity. - Simone Weil
+ </div>
 <!-- [linkedin]: https://www.linkedin.com/in/surya-pasrakh-mishra/
 [website]: https://old-school-kid.github.io/my-portfolio/index.html
 [Instagram]: https://www.instagram.com/old_school.kid/ -->
